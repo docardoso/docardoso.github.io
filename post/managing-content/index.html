@@ -80,6 +80,30 @@
         
 
         <li class="nav-item">
+          <a href="/#cursos">
+            
+            <span>Cursos</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
+          <a href="/#teaching">
+            
+            <span>Teaching</span>
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        <li class="nav-item">
           <a href="/#contact">
             
             <span>Contact</span>
@@ -176,11 +200,11 @@
 </div>
 
     <div class="article-style" itemprop="articleBody">
-      <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="https://docardoso.github.io/post/writing-markdown-latex/" target="_blank">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
+      <p>This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about <a href="https://docardoso.github.io/post/writing-markdown-latex/">writing content with Markdown, LaTeX, and Shortcodes</a>.</p>
 
 <p>To enable LaTeX math rendering for a page, you should include <code>math = true</code> in the page&rsquo;s <code>+++</code> preamble, as demonstrated in the included example site. Otherwise, to enable math on the homepage or for all pages, you must globally set <code>math = true</code> in <code>config.toml</code>.</p>
 
-<p>To disable source code highlighting by default for all pages, set <code>highlight = false</code> in <code>config.toml</code>. You can then enable source code highlighting only on pages that need it by setting <code>highlight = true</code> in that page&rsquo;s preamble. See the <a href="https://docardoso.github.io/post/writing-markdown-latex/#code-highlighting" target="_blank">code-highlighting docs</a> for more details.</p>
+<p>To disable source code highlighting by default for all pages, set <code>highlight = false</code> in <code>config.toml</code>. You can then enable source code highlighting only on pages that need it by setting <code>highlight = true</code> in that page&rsquo;s preamble. See the <a href="https://docardoso.github.io/post/writing-markdown-latex/#code-highlighting">code-highlighting docs</a> for more details.</p>
 
 <p>To display a featured image in content page headers, the parameters below can be inserted towards the end of a page&rsquo;s <code>+++</code> preamble. It is assumed that the image is located in your <code>static/img/</code> folder, so the full path in the example below will be <code>static/img/headers/getting-started.png</code>. The <code>caption</code> parameter can be used to write an image caption or credit.</p>
 
@@ -237,7 +261,7 @@ Further details on your publication can be written here using *Markdown* for for
 <p>If you enabled <code>detailed_list</code> for publications in <code>config.toml</code>, then there are a few more optional variables that you can include in the publication page preamble. You may use <code>abstract_short = &quot;friendly summary of abstract&quot;</code> and <code>publication_short = &quot;abbreviated publication details&quot;</code> to display a friendly summary of the abstract and abbreviate the publication details, respectively. Furthermore, there is the option to display a different image on the homepage to the publication detail page by setting <code>image_preview = &quot;my-image.jpg&quot;</code>. This can be useful if you wish to scale down the image for the homepage or simply if you just wish to show a different image for the preview.</p>
 
 <div class="alert alert-warning">
-  <p>Any double quotes (<code>&quot;</code>) or backslashes (e.g. LaTeX <code>\times</code>) occurring within the value of any frontmatter parameter (such as the <em>abstract</em>) should be escaped with a backslash (<code>\</code>). For example, the symbol <code>&quot;</code> and LaTeX text <code>\times</code> become <code>\&quot;</code> and <code>\\times</code>, respectively. Refer to the <a href="https://github.com/toml-lang/toml#user-content-string" target="_blank">TOML documentation</a> for more info.</p>
+  <p>Any double quotes (<code>&quot;</code>) or backslashes (e.g. LaTeX <code>\times</code>) occurring within the value of any frontmatter parameter (such as the <em>abstract</em>) should be escaped with a backslash (<code>\</code>). For example, the symbol <code>&quot;</code> and LaTeX text <code>\times</code> become <code>\&quot;</code> and <code>\\times</code>, respectively. Refer to the <a href="https://github.com/toml-lang/toml#user-content-string">TOML documentation</a> for more info.</p>
 
 </div>
 
@@ -306,7 +330,7 @@ Below is an automatically generated list of all my blog posts!
 
 <h2 id="view-your-updated-site">View your updated site</h2>
 
-<p>After you have made changes to your site, you can view it by running the <code>hugo server --watch</code> command and then opening <a href="http://localhost:1313" target="_blank">localhost:1313</a> in your web browser.</p>
+<p>After you have made changes to your site, you can view it by running the <code>hugo server --watch</code> command and then opening <a href="http://localhost:1313">localhost:1313</a> in your web browser.</p>
 
 <h2 id="deploy-your-site">Deploy your site</h2>
 
