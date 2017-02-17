@@ -103,7 +103,10 @@
     // Initialize Isotope after all images have loaded.
     $grid_projects.isotope({
       itemSelector: '.isotope-item',
-      layoutMode: 'masonry'
+      masonry: {
+         columnWidth: 50,
+         gutter: 50
+      }
     });
 
     // Filter items when filter link is clicked.
