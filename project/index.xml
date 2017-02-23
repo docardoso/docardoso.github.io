@@ -17,16 +17,24 @@
       <guid>https://docardoso.github.io/project/eng-sw/</guid>
       <description>
 
-&lt;h2 id=&#34;aulas-e-slides&#34;&gt;Aulas e slides&lt;/h2&gt;
+&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Entrega do relatório sobre PDSs: 15/03/2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-intro.pdf&#34;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;02-pds.pdf&#34;&gt;Processos de Desenvolvimento de Software&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/SE9/presentations/&#34;&gt;http://www.slideshare.net/SE9/presentations/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.computer.org/web/swebok&#34;&gt;https://www.computer.org/web/swebok&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -43,6 +51,22 @@
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-afd.pdf&#34;&gt;Autômatos Finitos Determinísticos&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lógica</title>
+      <link>https://docardoso.github.io/project/logica/</link>
+      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/project/logica/</guid>
+      <description>
+
+&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;01-lp_dn1.pdf&#34;&gt;Lógica Proposicional e Dedução Natural (parte 1)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

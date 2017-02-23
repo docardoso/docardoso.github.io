@@ -104,7 +104,7 @@
     $grid_projects.isotope({
       itemSelector: '.isotope-item',
       masonry: {
-         columnWidth: 50,
+         columnWidth: 100,
          gutter: 50
       }
     });
