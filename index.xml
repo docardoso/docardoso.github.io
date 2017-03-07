@@ -51,6 +51,7 @@
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-afd.pdf&#34;&gt;Autômatos Finitos Determinísticos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;02-afnd.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -67,7 +68,25 @@
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-lp_dn1.pdf&#34;&gt;Lógica Proposicional e Dedução Natural (parte 1)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;02-dn2.pdf&#34;&gt;Dedução Natural (parte 2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
+
+&lt;p&gt;Monitor: Victor Pedrosa&lt;br /&gt;
+Atendimento: 6as-feiras, das 14:00 às 16:00, na biblioteca&lt;br /&gt;
+Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedrosa.99@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cos.ufrj.br/~mario/logica/logica.html&#34;&gt;http://www.cos.ufrj.br/~mario/logica/logica.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf&#34;&gt;http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://logic.stanford.edu/intrologic/lessons/lessons.html&#34;&gt;http://logic.stanford.edu/intrologic/lessons/lessons.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html&#34;&gt;https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.logicinaction.org/&#34;&gt;http://www.logicinaction.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://logic.ua.edu/cgi-bin/quizmaster&#34;&gt;http://logic.ua.edu/cgi-bin/quizmaster&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.poweroflogic.com/cgi/menu.cgi&#34;&gt;http://www.poweroflogic.com/cgi/menu.cgi&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&#34;&gt;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
