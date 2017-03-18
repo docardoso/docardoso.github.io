@@ -17,17 +17,12 @@
       <guid>https://docardoso.github.io/project/eng-sw/</guid>
       <description>
 
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Entrega do relatório sobre PDSs: 15/03/2017&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-intro.pdf&#34;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;02-pds.pdf&#34;&gt;Processos de Desenvolvimento de Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;03-requisitos.pdf&#34;&gt;Engenharia de Requisitos&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
@@ -64,11 +59,23 @@
       <guid>https://docardoso.github.io/project/logica/</guid>
       <description>
 
+&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lista 1 de exercícios divulgada em 18/03/2017&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-lp_dn1.pdf&#34;&gt;Lógica Proposicional e Dedução Natural (parte 1)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;02-dn2.pdf&#34;&gt;Dedução Natural (parte 2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de Exercícios&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;lista1.pdf&#34;&gt;Lista 1&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
@@ -86,7 +93,8 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
 &lt;a href=&#34;http://www.logicinaction.org/&#34;&gt;http://www.logicinaction.org/&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://logic.ua.edu/cgi-bin/quizmaster&#34;&gt;http://logic.ua.edu/cgi-bin/quizmaster&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://www.poweroflogic.com/cgi/menu.cgi&#34;&gt;http://www.poweroflogic.com/cgi/menu.cgi&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&#34;&gt;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&#34;&gt;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://teachinglogic.liglab.fr/DN/index.php&#34;&gt;http://teachinglogic.liglab.fr/DN/index.php&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
