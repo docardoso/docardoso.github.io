@@ -16,11 +16,25 @@
       <guid>https://docardoso.github.io/project/lfa/</guid>
       <description>
 
-&lt;h2 id=&#34;aulas-e-slides&#34;&gt;Aulas e slides&lt;/h2&gt;
+&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lista 1 de exercícios liberada em 04/04/2017&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;01-afd.pdf&#34;&gt;Autômatos Finitos Determinísticos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;02-afnd.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;02-afn.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;03-afl_fechamento.pdf&#34;&gt;AFN$\lambda$s &amp;amp; Propriedades de Fechamento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;04-bombeamento.pdf&#34;&gt;Lema do Bombeamento&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de exercícios&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;lfa_lista1.pdf&#34;&gt;Lista 1&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
