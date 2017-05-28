@@ -132,6 +132,28 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
       <guid>https://docardoso.github.io/project/prog-python/</guid>
       <description>
 
+&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;28/05/2017, 14:30: Diretrizes do projeto &amp;lsquo;Agenda&amp;rsquo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;projeto-agenda&#34;&gt;Projeto &amp;lsquo;Agenda&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;Uma implementação de uma agenda simples em Python. Deve atender as seguintes diretrizes básicas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;O script deve ter o nome &lt;strong&gt;agenda.py&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 agenda.py &lt;a href=&#34;agenda/agenda.db&#34;&gt;agenda.db&lt;/a&gt;&lt;/strong&gt; e receber os comandos no arquivo &lt;a href=&#34;agenda/agenda.in&#34;&gt;agenda.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;agenda/agenda.out&#34;&gt;agenda.out&lt;/a&gt; e o conteúdo do arquivo agenda.db será modificado de forma similar ao arquivo &lt;a href=&#34;agenda/agenda_pos.db&#34;&gt;agenda_pos.db&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Com o arquivo agenda.db gerado no item anterior (ou seja, similar ao arquivo agenda_pos.db), ao executar o script &lt;a href=&#34;agenda/teste_agenda.py&#34;&gt;teste_agenda.py&lt;/a&gt;, a saída produzida deve ser semelhante ao arquivo &lt;a href=&#34;agenda/teste_agenda.out&#34;&gt;teste_agenda.out&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Ao recuperar contatos na agenda, sejam todos ou apenas um subconjunto destes, eles devem ser &lt;strong&gt;idealmente&lt;/strong&gt; (ou seja, o quanto mais próximo disso, melhor) exibidos em ordem alfabética e sem diferenciar caracteres maiúsculos e minúsculos;&lt;/li&gt;
+&lt;li&gt;O arquivos teste_agenda.py contém comentários com orientações sobre o comportamento esperado dos elementos implementados.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os arquivos indicados acima (agenda.db, agenda_pos.db, agenda.in, agenda.out, teste_agenda.py, teste-agenda.out) fornecem as orientações básicas sobre o funcionamento do script agenda.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
+
+&lt;p&gt;Em caso de dúvidas, não deixe de esclarecê-las!&lt;/p&gt;
+
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
 
 &lt;ul&gt;
