@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     
     <url>
+    
       <loc>https://docardoso.github.io/project/eng-sw/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     </url>
@@ -12,6 +13,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/project/lfa/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     </url>
@@ -20,6 +22,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/project/logica/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     </url>
@@ -28,6 +31,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/project/prog-python/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
     </url>
@@ -36,6 +40,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -44,6 +49,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/cefet-rj/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -53,6 +59,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/cursos/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -62,6 +69,10 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/en/" hreflang="en"/>
+    
       <loc>https://docardoso.github.io/</loc>
       <lastmod>2017-02-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -71,6 +82,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/eng-sw/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -80,6 +92,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/graduacao/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -92,6 +105,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/lfa/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -101,6 +115,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/logica/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -110,6 +125,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/prog-python/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -119,6 +135,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/project/</loc>
       <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -128,6 +145,7 @@
     
     
     <url>
+    
       <loc>https://docardoso.github.io/tags/</loc>
       <priority>0</priority>
     </url>
