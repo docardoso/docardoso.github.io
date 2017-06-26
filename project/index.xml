@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Douglas O. Cardoso</title>
-    <link>https://docardoso.github.io/project/index.xml</link>
+    <link>https://docardoso.github.io/project/</link>
     <description>Recent content in Projects on Douglas O. Cardoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
     <lastBuildDate>Fri, 17 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Engenharia de Software</title>
@@ -47,7 +47,7 @@
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;23/06/2017, 12:15: Lista 3 de exercícios divulgada&lt;/li&gt;
+&lt;li&gt;29/05/2017, 13:00: Lista 2 de exercícios divulgada&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
@@ -67,7 +67,6 @@
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;lfa_lista1.pdf&#34;&gt;Lista 1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;lfa_lista2.pdf&#34;&gt;Lista 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;lfa_lista3.pdf&#34;&gt;Lista 3&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
@@ -88,8 +87,8 @@
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lista 5 divulgada em 23/06/2017, às 13:50&lt;/li&gt;
-&lt;li&gt;Prova 2 em 03/07/2017&lt;/li&gt;
+&lt;li&gt;Lista 4 (corrigida) divulgada 26/05/2017, às 15:10&lt;/li&gt;
+&lt;li&gt;Prova 2 em 06/06/2017&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
@@ -108,7 +107,6 @@
 &lt;li&gt;&lt;a href=&#34;lista2.pdf&#34;&gt;Lista 2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;lista3.pdf&#34;&gt;Lista 3&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;lista4.pdf&#34;&gt;Lista 4&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;lista5.pdf&#34;&gt;Lista 5&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
