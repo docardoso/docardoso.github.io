@@ -32,15 +32,6 @@
     
     <url>
     
-      <loc>https://docardoso.github.io/project/prog-python/</loc>
-      <lastmod>2017-02-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://docardoso.github.io/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -127,8 +118,15 @@
     <url>
     
       <loc>https://docardoso.github.io/tags/prog-python/</loc>
-      <lastmod>2017-02-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://docardoso.github.io/project/prog-python/</loc>
     </url>
     
   

@@ -131,10 +131,32 @@
 <h2 id="avisos">Avisos</h2>
 
 <ul>
-<li>Diretrizes do projeto &lsquo;Calculadora&rsquo; divulgadas.</li>
+<li>Diretrizes dos projeto &lsquo;Plotter&rsquo; divulgadas.</li>
+<li>Diretrizes dos projeto &lsquo;Calculadora&rsquo; divulgadas.</li>
 <li>Todos os projetos são individuais.</li>
 <li>O envio dos projetos deve ocorrer até 07/07/2017, 0:00.</li>
 </ul>
+
+<h2 id="projeto-plotter">Projeto &lsquo;Plotter&rsquo;</h2>
+
+<p>Uma aplicação para desktop que mostrará gráficos de funções daadas suas especificações.</p>
+
+<ul>
+<li>O arquivo-fonte principal da aplicação deve ter o nome <strong>plotter.py</strong>;</li>
+<li>A aplicação terá uma única tela;</li>
+<li>Na tela haverá uma caixa de texto para cada uma das seguintes informações: especificação das funções a serem apresentadas, rótulo do eixo X, rótulo do eixo Y, título do gráfico;</li>
+<li>Haverá também um botão que disparará a produção do gráfico;</li>
+<li>O intervalo no qual as funções serão consideradas (i.e., o intervalo de x) será indicado através de outras duas caixas de texto, uma para o limite inferior e outra para o limite superior deste intervalo;</li>
+<li>As funções serão indicadas uma por linha na caixa de texto destinada a isso;</li>
+<li>O formato 1 para especificar funções são números separados por espaços, que representam os coeficientes da função: e.g., &lsquo;2 -3 5 -7&rsquo; $\to 2x^3 - 3x^2 + 5x - 7$;</li>
+<li>O formato 2 é aquele no qual as raízes da função são indicadas: e.g., &lsquo;r:7 -2 9&rsquo; $\to (x - 7)(x + 2)(x - 9)$;</li>
+<li>No gráfico estarão presentes linhas-guias, como uma grade, facilitando assim a leitura do gráfico;</li>
+<li>Haverá uma legenda indicando a função a que se refere cada uma das curvas no gráfico.</li>
+</ul>
+
+<p>Além das funcionalidades acima listadas, a organização (mas não a estética em si, mas a praticidade de uso) dos elementos da GUI também serão avaliados. Utilize os layouts e as opções dos elementos gráficos com sabedoria.</p>
+
+<p>Para fins de referência, os seguintes módulos e funções de python devem ser úteis na realização desta tarefa: kivy, numpy, pylab, numpy.linspace, numpy.poly1d, pylab.xlim, pylab.xlabel, pylab.ylabel, pylab.title, pylab.plot, pylab.legend, pylab.grid.</p>
 
 <h2 id="projeto-calculadora">Projeto &lsquo;Calculadora&rsquo;</h2>
 
@@ -142,7 +164,10 @@
 
 <ul>
 <li>O script deve ter o nome <strong>calculadora.py</strong>;</li>
-<li>Ao ser executado como <strong>python3 calculadora.py</strong> e receber os conandos no arquivo <a href="calculadora/calculadora.in">calculadora.in</a>, a saída do script deve ser similar àquela do arquivo <a href="calculadora/calculadora.out">calculadora.out</a>.</li>
+<li>Ao ser executado como <strong>python3 calculadora.py</strong> e receber os conandos no arquivo <a href="calculadora/calculadora.in">calculadora.in</a>, a saída do script deve ser similar àquela do arquivo <a href="calculadora/calculadora.out">calculadora.out</a>;</li>
+<li>O script deverá ser capaz de computar o valor de expressões aritiméticas baseados nos operadores +, -, *, / e **;</li>
+<li>Não deveá ser considerada qualquer regra de precedência entre os operadores;</li>
+<li>Deve ser permitida a atribuição de valore e uso posterior de variáveis.</li>
 </ul>
 
 <p>Os arquivos indicados acima (calculadora.in, calculadora.out) fornecem as orientações básicas sobre o funcionamento do script calculadora.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.</p>
@@ -234,6 +259,11 @@
     
 
     
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    <script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
     
 
   </body>

@@ -139,7 +139,7 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
     <item>
       <title>Programação em Python</title>
       <link>https://docardoso.github.io/project/prog-python/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/prog-python/</guid>
       <description>
@@ -147,10 +147,32 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Diretrizes do projeto &amp;lsquo;Calculadora&amp;rsquo; divulgadas.&lt;/li&gt;
+&lt;li&gt;Diretrizes dos projeto &amp;lsquo;Plotter&amp;rsquo; divulgadas.&lt;/li&gt;
+&lt;li&gt;Diretrizes dos projeto &amp;lsquo;Calculadora&amp;rsquo; divulgadas.&lt;/li&gt;
 &lt;li&gt;Todos os projetos são individuais.&lt;/li&gt;
 &lt;li&gt;O envio dos projetos deve ocorrer até 07/07/2017, 0:00.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;projeto-plotter&#34;&gt;Projeto &amp;lsquo;Plotter&amp;rsquo;&lt;/h2&gt;
+
+&lt;p&gt;Uma aplicação para desktop que mostrará gráficos de funções daadas suas especificações.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;O arquivo-fonte principal da aplicação deve ter o nome &lt;strong&gt;plotter.py&lt;/strong&gt;;&lt;/li&gt;
+&lt;li&gt;A aplicação terá uma única tela;&lt;/li&gt;
+&lt;li&gt;Na tela haverá uma caixa de texto para cada uma das seguintes informações: especificação das funções a serem apresentadas, rótulo do eixo X, rótulo do eixo Y, título do gráfico;&lt;/li&gt;
+&lt;li&gt;Haverá também um botão que disparará a produção do gráfico;&lt;/li&gt;
+&lt;li&gt;O intervalo no qual as funções serão consideradas (i.e., o intervalo de x) será indicado através de outras duas caixas de texto, uma para o limite inferior e outra para o limite superior deste intervalo;&lt;/li&gt;
+&lt;li&gt;As funções serão indicadas uma por linha na caixa de texto destinada a isso;&lt;/li&gt;
+&lt;li&gt;O formato 1 para especificar funções são números separados por espaços, que representam os coeficientes da função: e.g., &amp;lsquo;2 -3 5 -7&amp;rsquo; $\to 2x^3 - 3x^2 + 5x - 7$;&lt;/li&gt;
+&lt;li&gt;O formato 2 é aquele no qual as raízes da função são indicadas: e.g., &amp;lsquo;r:7 -2 9&amp;rsquo; $\to (x - 7)(x + 2)(x - 9)$;&lt;/li&gt;
+&lt;li&gt;No gráfico estarão presentes linhas-guias, como uma grade, facilitando assim a leitura do gráfico;&lt;/li&gt;
+&lt;li&gt;Haverá uma legenda indicando a função a que se refere cada uma das curvas no gráfico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Além das funcionalidades acima listadas, a organização (mas não a estética em si, mas a praticidade de uso) dos elementos da GUI também serão avaliados. Utilize os layouts e as opções dos elementos gráficos com sabedoria.&lt;/p&gt;
+
+&lt;p&gt;Para fins de referência, os seguintes módulos e funções de python devem ser úteis na realização desta tarefa: kivy, numpy, pylab, numpy.linspace, numpy.poly1d, pylab.xlim, pylab.xlabel, pylab.ylabel, pylab.title, pylab.plot, pylab.legend, pylab.grid.&lt;/p&gt;
 
 &lt;h2 id=&#34;projeto-calculadora&#34;&gt;Projeto &amp;lsquo;Calculadora&amp;rsquo;&lt;/h2&gt;
 
@@ -158,7 +180,10 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
 
 &lt;ul&gt;
 &lt;li&gt;O script deve ter o nome &lt;strong&gt;calculadora.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 calculadora.py&lt;/strong&gt; e receber os conandos no arquivo &lt;a href=&#34;calculadora/calculadora.in&#34;&gt;calculadora.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;calculadora/calculadora.out&#34;&gt;calculadora.out&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 calculadora.py&lt;/strong&gt; e receber os conandos no arquivo &lt;a href=&#34;calculadora/calculadora.in&#34;&gt;calculadora.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;calculadora/calculadora.out&#34;&gt;calculadora.out&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;O script deverá ser capaz de computar o valor de expressões aritiméticas baseados nos operadores +, -, *, / e **;&lt;/li&gt;
+&lt;li&gt;Não deveá ser considerada qualquer regra de precedência entre os operadores;&lt;/li&gt;
+&lt;li&gt;Deve ser permitida a atribuição de valore e uso posterior de variáveis.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Os arquivos indicados acima (calculadora.in, calculadora.out) fornecem as orientações básicas sobre o funcionamento do script calculadora.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
