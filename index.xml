@@ -10,29 +10,56 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Engenharia de Software</title>
-      <link>https://docardoso.github.io/project/eng-sw/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Introdução a Programação</title>
+      <link>https://docardoso.github.io/project/intro-prog/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docardoso.github.io/project/eng-sw/</guid>
+      <guid>https://docardoso.github.io/project/intro-prog/</guid>
       <description>
 
-&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das Aulas&lt;/h2&gt;
+&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;04/09/2017, 14:10: O prazo das 1as listas de exercícios é 29/09/2017&lt;/li&gt;
+&lt;li&gt;04/09/2017, 14:10: A P1 ocorrerá em 29/09/2017&lt;/li&gt;
+&lt;li&gt;04/09/2017, 14:10: página criada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;aulas&#34;&gt;Aulas&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;01-intro.pdf&#34;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;02-pds.pdf&#34;&gt;Processos de Desenvolvimento de Software&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;03-requisitos.pdf&#34;&gt;Engenharia de Requisitos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;04-modelagem.pdf&#34;&gt;Modelagem de Sistemas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;05-arquitetura.pdf&#34;&gt;Arquitetura de Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Entrada e saída básicos&lt;/li&gt;
+&lt;li&gt;Variáveis&lt;/li&gt;
+&lt;li&gt;if, else e else if&lt;/li&gt;
+&lt;li&gt;Loops (for, while e do while)&lt;/li&gt;
+&lt;li&gt;Vetores e matrizes&lt;/li&gt;
+&lt;li&gt;Funções&lt;/li&gt;
+&lt;li&gt;Bibliotecas-padrão (stdio, math, string)&lt;/li&gt;
+&lt;li&gt;Struct e endereços&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;Os códigos-fonte gerados durante as aulas, exemplificando o conteúdo abordado, encontram-se disponíveis através deste &lt;a href=&#34;https://www.dropbox.com/sh/zujq8abccf3qevl/AAD8CT8-qBnxXd7QFPic782ea&#34;&gt;link&lt;/a&gt;. Tal link é de responsabilidade dos próprios alunos.&lt;/p&gt;
+
+&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de Exercícios&lt;/h2&gt;
+
+&lt;p&gt;O site &lt;a href=&#34;https://www.urionlinejudge.com.br/&#34;&gt;https://www.urionlinejudge.com.br/&lt;/a&gt; foi utilizado para divulgação e avaliação das primeiras listas de exercícios. Sendo assim, para ter acesso às mesmas, fazer cadastrar-se no site e entrar em contato solicitando permissão para acesso a elas.&lt;/p&gt;
+
+&lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
+
+&lt;p&gt;Monitor: Yngwi Guimaraes (&lt;a href=&#34;mailto:yngwigvs@gmail.com&#34;&gt;yngwigvs@gmail.com&lt;/a&gt;)&lt;br /&gt;
+Atendimento:&lt;br /&gt;
+- 5as-feiras; das 9:30 às 10:50, no laboratório do hall;&lt;br /&gt;
+- 5as-feiras; das 15:30 às 17:30 na biblioteca (2o andar).&lt;/p&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.slideshare.net/SE9/presentations/&#34;&gt;http://www.slideshare.net/SE9/presentations/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.computer.org/web/swebok&#34;&gt;https://www.computer.org/web/swebok&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.learn-c.org/&#34;&gt;http://www.learn-c.org/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://learnxinyminutes.com/docs/c/&#34;&gt;https://learnxinyminutes.com/docs/c/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.cprogramming.com/tutorial/c-tutorial.html&#34;&gt;http://www.cprogramming.com/tutorial/c-tutorial.html&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.programiz.com/c-programming&#34;&gt;https://www.programiz.com/c-programming&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://fresh2refresh.com/c-programming/&#34;&gt;http://fresh2refresh.com/c-programming/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;http://www.w3schools.in/c-tutorial/&#34;&gt;http://www.w3schools.in/c-tutorial/&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm&#34;&gt;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -47,7 +74,7 @@
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;23/08/2017, 16:40: Página atualizada para 2017-2&lt;/li&gt;
+&lt;li&gt;23/08/2017, 16:40: página atualizada para 2017-2&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
@@ -57,11 +84,11 @@
 &lt;li&gt;&lt;a href=&#34;02-afn.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;03-afl_fechamento.pdf&#34;&gt;AFN$\lambda$s &amp;amp; Propriedades de Fechamento&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;04-bombeamento.pdf&#34;&gt;Lema do Bombeamento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;05-er.pdf&#34;&gt;Expressões Regulares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;06-gr.pdf&#34;&gt;Gramáticas Regulares&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;!--
-1. [Expressões Regulares](05-er.pdf)
-1. [Gramáticas Regulares](06-gr.pdf)
 1. [Autômatos com Pilha](07-ap.pdf)
 --&gt;
 
@@ -97,8 +124,9 @@
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Lista 1 divulgada em 30/08/2017, 00:10&lt;/li&gt;
-&lt;li&gt;Lista 2 divulgada em 04/09/2017, 11:50&lt;/li&gt;
+&lt;li&gt;04/09/2017, 15:00: A P1 ocorrerá em &lt;sup&gt;14&lt;/sup&gt;&amp;frasl;&lt;sub&gt;09&lt;/sub&gt;, de 7:00 às 8:30&lt;/li&gt;
+&lt;li&gt;04/09/2017, 11:50: lista 2 divulgada&lt;/li&gt;
+&lt;li&gt;30/08/2017, 00:10: lista 1 divulgada&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!--
@@ -131,9 +159,8 @@
 
 &lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
 
-&lt;p&gt;Monitor: Victor Pedrosa&lt;br /&gt;
-Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)
-Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedrosa.99@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Monitor: Victor Pedrosa (&lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedrosa.99@gmail.com&lt;/a&gt;)
+Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2o andar)&lt;/p&gt;
 
 &lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
 
@@ -147,83 +174,6 @@ Contato: &lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedro
 &lt;a href=&#34;http://www.poweroflogic.com/cgi/menu.cgi&#34;&gt;http://www.poweroflogic.com/cgi/menu.cgi&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&#34;&gt;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&#34;http://teachinglogic.liglab.fr/DN/index.php&#34;&gt;http://teachinglogic.liglab.fr/DN/index.php&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Programação em Python</title>
-      <link>https://docardoso.github.io/project/prog-python/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://docardoso.github.io/project/prog-python/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;30/06/2017, 01:50: correção dos arquivos calculadora.in e calculadora.out&lt;/li&gt;
-&lt;li&gt;Diretrizes dos projeto &amp;lsquo;Plotter&amp;rsquo; e &amp;lsquo;Calculadora&amp;rsquo; divulgadas.&lt;/li&gt;
-&lt;li&gt;Todos os projetos são individuais.&lt;/li&gt;
-&lt;li&gt;O envio dos projetos deve ocorrer até 07/07/2017, 0:00.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;projeto-plotter&#34;&gt;Projeto &amp;lsquo;Plotter&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Uma aplicação para desktop que mostrará gráficos de funções daadas suas especificações.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O arquivo-fonte principal da aplicação deve ter o nome &lt;strong&gt;plotter.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;A aplicação terá uma única tela;&lt;/li&gt;
-&lt;li&gt;Na tela haverá uma caixa de texto para cada uma das seguintes informações: especificação das funções a serem apresentadas, rótulo do eixo X, rótulo do eixo Y, título do gráfico;&lt;/li&gt;
-&lt;li&gt;Haverá também um botão que disparará a produção do gráfico;&lt;/li&gt;
-&lt;li&gt;O intervalo no qual as funções serão consideradas (i.e., o intervalo de x) será indicado através de outras duas caixas de texto, uma para o limite inferior e outra para o limite superior deste intervalo;&lt;/li&gt;
-&lt;li&gt;As funções serão indicadas uma por linha na caixa de texto destinada a isso;&lt;/li&gt;
-&lt;li&gt;O formato 1 para especificar funções são números separados por espaços, que representam os coeficientes da função: e.g., &amp;lsquo;2 -3 5 -7&amp;rsquo; $\to 2x^3 - 3x^2 + 5x - 7$;&lt;/li&gt;
-&lt;li&gt;O formato 2 é aquele no qual as raízes da função são indicadas: e.g., &amp;lsquo;r:7 -2 9&amp;rsquo; $\to (x - 7)(x + 2)(x - 9)$;&lt;/li&gt;
-&lt;li&gt;No gráfico estarão presentes linhas-guias, como uma grade, facilitando assim a leitura do gráfico;&lt;/li&gt;
-&lt;li&gt;Haverá uma legenda indicando a função a que se refere cada uma das curvas no gráfico.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Além das funcionalidades acima listadas, a organização (mas não a estética em si, mas a praticidade de uso) dos elementos da GUI também serão avaliados. Utilize os layouts e as opções dos elementos gráficos com sabedoria.&lt;/p&gt;
-
-&lt;p&gt;Para fins de referência, os seguintes módulos e funções de python devem ser úteis na realização desta tarefa: kivy, numpy, pylab, numpy.linspace, numpy.poly1d, pylab.xlim, pylab.xlabel, pylab.ylabel, pylab.title, pylab.plot, pylab.legend, pylab.grid.&lt;/p&gt;
-
-&lt;h2 id=&#34;projeto-calculadora&#34;&gt;Projeto &amp;lsquo;Calculadora&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Um script interativo que calcula o valor de expressões matemáticas simples. Diretrizes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O script deve ter o nome &lt;strong&gt;calculadora.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 calculadora.py&lt;/strong&gt; e receber os conandos no arquivo &lt;a href=&#34;calculadora/calculadora.in&#34;&gt;calculadora.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;calculadora/calculadora.out&#34;&gt;calculadora.out&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;O script deverá ser capaz de computar o valor de expressões aritiméticas baseados nos operadores +, -, *, / e **;&lt;/li&gt;
-&lt;li&gt;Não deveá ser considerada qualquer regra de precedência entre os operadores;&lt;/li&gt;
-&lt;li&gt;Deve ser permitida a atribuição de valore e uso posterior de variáveis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os arquivos indicados acima (calculadora.in, calculadora.out) fornecem as orientações básicas sobre o funcionamento do script calculadora.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
-
-&lt;h2 id=&#34;projeto-agenda&#34;&gt;Projeto &amp;lsquo;Agenda&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Uma implementação de uma agenda simples em Python. Deve atender as seguintes diretrizes básicas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O script deve ter o nome &lt;strong&gt;agenda.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 agenda.py &lt;a href=&#34;agenda/agenda.db&#34;&gt;agenda.db&lt;/a&gt;&lt;/strong&gt; e receber os comandos no arquivo &lt;a href=&#34;agenda/agenda.in&#34;&gt;agenda.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;agenda/agenda.out&#34;&gt;agenda.out&lt;/a&gt; e o conteúdo do arquivo agenda.db será modificado de forma similar ao arquivo &lt;a href=&#34;agenda/agenda_pos.db&#34;&gt;agenda_pos.db&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;Com o arquivo agenda.db gerado no item anterior (ou seja, similar ao arquivo agenda_pos.db), ao executar o script &lt;a href=&#34;agenda/teste_agenda.py&#34;&gt;teste_agenda.py&lt;/a&gt;, a saída produzida deve ser semelhante ao arquivo &lt;a href=&#34;agenda/teste_agenda.out&#34;&gt;teste_agenda.out&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;Ao recuperar contatos na agenda, sejam todos ou apenas um subconjunto destes, eles devem ser &lt;strong&gt;idealmente&lt;/strong&gt; (ou seja, o quanto mais próximo disso, melhor) exibidos em ordem alfabética e sem diferenciar caracteres maiúsculos e minúsculos;&lt;/li&gt;
-&lt;li&gt;O arquivos teste_agenda.py contém comentários com orientações sobre o comportamento esperado dos elementos implementados.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os arquivos indicados acima (agenda.db, agenda_pos.db, agenda.in, agenda.out, teste_agenda.py, teste-agenda.out) fornecem as orientações básicas sobre o funcionamento do script agenda.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
-
-&lt;p&gt;Em caso de dúvidas, não deixe de esclarecê-las! Comunique-se!&lt;/p&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3.6/tutorial/index.html&#34;&gt;https://docs.python.org/3.6/tutorial/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sololearn.com/Course/Python/&#34;&gt;https://www.sololearn.com/Course/Python/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

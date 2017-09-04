@@ -19,7 +19,7 @@
 &lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;23/08/2017, 16:40: Página atualizada para 2017-2&lt;/li&gt;
+&lt;li&gt;23/08/2017, 16:40: página atualizada para 2017-2&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
@@ -29,11 +29,11 @@
 &lt;li&gt;&lt;a href=&#34;02-afn.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;03-afl_fechamento.pdf&#34;&gt;AFN$\lambda$s &amp;amp; Propriedades de Fechamento&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;04-bombeamento.pdf&#34;&gt;Lema do Bombeamento&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;05-er.pdf&#34;&gt;Expressões Regulares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;06-gr.pdf&#34;&gt;Gramáticas Regulares&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;!--
-1. [Expressões Regulares](05-er.pdf)
-1. [Gramáticas Regulares](06-gr.pdf)
 1. [Autômatos com Pilha](07-ap.pdf)
 --&gt;
 
