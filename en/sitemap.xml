@@ -5,6 +5,18 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/categories/" hreflang="pt"/>
+    
+      <loc>https://docardoso.github.io/en/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <xhtml:link rel="alternate" href="https://docardoso.github.io/en/" hreflang="en"/>
       <xhtml:link rel="alternate" href="https://docardoso.github.io/" hreflang="pt"/>
     
@@ -15,6 +27,27 @@
     
   
     
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/publication_types/" hreflang="pt"/>
+    
+      <loc>https://docardoso.github.io/en/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://docardoso.github.io/tags/" hreflang="pt"/>
+    
+      <loc>https://docardoso.github.io/en/tags/</loc>
+      <priority>0</priority>
+    </url>
     
   
 </urlset>
