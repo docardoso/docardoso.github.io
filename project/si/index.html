@@ -142,7 +142,7 @@
 <h2 id="avisos">Avisos</h2>
 
 <ul>
-<li>05/09/2017, 3:20: página criada</li>
+<li>13/03/2018, 12:00: página atualizada</li>
 </ul>
 
 <h2 id="slides-das-aulas">Slides das aulas</h2>
@@ -151,34 +151,49 @@
 
 <h2 id="trabalho-1">Trabalho 1</h2>
 
-<p>Solucionar o <a href="https://pt.wikipedia.org/wiki/O_jogo_do_15" target="_blank">Jogo dos 15</a>.<br />
-Isto é, desenvolver um programa que receba como entrada:<br />
-- na 1a linha, dois valores inteiros, $l$ e $c$, representando o número de linhas e colunas do tabuleiro, respectivamente;<br />
-- da 2a linha em diante, os números de $0$ a $(l * c) - 1$, organizados em l linhas com c números cada, representando a configuração inicial do jogo ($0$ representa o espaço).<br />
-- Na última linha, um número representando um dos tipos de busca apresentados: em profundidade, em largura, em profundidade iterativa, custo uniforme, gulosa e A*.<br />
-Como saída do programa, devem ser apresentados:<br />
-- o número de nós expandidos durante a busca;<br />
-- a quantidade e descrição dos movimentos da configuração original até a solução, se esta for encontrada.</p>
+<p>Implementar de um classificador de dígitos baseado em Naive Bayes.</p>
 
-<h2 id="links-úteis">Links úteis</h2>
+<p>Usaremos como plataforma para este trabalho o Kaggle.
+Vide <a href="https://www.kaggle.com/c/digit-recognizer" target="_blank">este link</a>.</p>
 
-<p><a href="http://ai.berkeley.edu/lecture_slides.html" target="_blank">http://ai.berkeley.edu/lecture_slides.html</a><br />
-<a href="https://www.cs.duke.edu/courses/fall08/cps270/" target="_blank">https://www.cs.duke.edu/courses/fall08/cps270/</a><br />
-<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm" target="_blank">https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm</a><br />
-<a href="https://www.cs.princeton.edu/courses/archive/fall16/cos402/" target="_blank">https://www.cs.princeton.edu/courses/archive/fall16/cos402/</a><br />
-<a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/" target="_blank">https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/</a><br />
+<p>O objetivo será obter a maior acurácia possível numa submissão feita ao site, sendo este valor considerado para avaliação de cada aluno.
+O número de submissões feitas não terá qualquer influência na avaliação.</p>
+
+<p>Considere o tipo de suavização assim como sua configuração como hiperparâmetros do modelo.</p>
+
+<p>Conforme pode ser notado, as entradas não são figuras em preto-e-branco, mas em escala de cinza. Estas deverão ser binarizadas, utilizando um critério que pode ser livremente escolhido (e.g., limiar fixo, limiar média, limiar mediana). Sendo assim, o processo de binarização é outro hiperparâmetro. Há diversas referências sobre binarização na Internet [<a href="http://felixniklas.com/imageprocessing/binarization" target="_blank">1</a>, <a href="https://en.wikipedia.org/wiki/Thresholding_(image_processing)" target="_blank">2</a>, <a href="https://imagej.net/Auto_Local_Threshold#Available_methods" target="_blank">3</a>].</p>
+
+<p>A conclusão do desenvolvimento do trabalho deve ser anunciada até 01/06/2018. Quando isto acontecer, será então agendada uma breve entrevista (não é uma apresentação; slides não serão utilizados) sobre o trabalho desenvolvido. O desempenho no Kaggle e na entrevista serão os critérios para a avaliação.</p>
+
+<h2 id="links-interessantes">Links interessantes</h2>
+
+<p><a href="http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html" target="_blank">http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html</a><br />
+<a href="http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html" target="_blank">http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html</a><br />
+<a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers" target="_blank">https://github.com/ZuzooVn/machine-learning-for-software-engineers</a><br />
+<a href="https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c" target="_blank">https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c</a><br />
+<a href="http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html" target="_blank">http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html</a><br />
+<a href="http://openclassroom.stanford.edu/MainFolder/HomePage.php" target="_blank">http://openclassroom.stanford.edu/MainFolder/HomePage.php</a><br />
+<a href="http://ghyslain.me/bookshelf" target="_blank">http://ghyslain.me/bookshelf</a><br />
+<a href="http://dataconomy.com/2017/02/mathematics-machine-learning/" target="_blank">http://dataconomy.com/2017/02/mathematics-machine-learning/</a><br />
 <a href="http://www.deeplearningbook.org/" target="_blank">http://www.deeplearningbook.org/</a><br />
 <a href="http://cs109.org" target="_blank">http://cs109.org</a><br />
-<a href="http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning" target="_blank">http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning</a>
-<a href="http://dataconomy.com/2017/02/mathematics-machine-learning/" target="_blank">http://dataconomy.com/2017/02/mathematics-machine-learning/</a><br />
-<a href="http://ghyslain.me/bookshelf" target="_blank">http://ghyslain.me/bookshelf</a><br />
-<a href="http://theopenacademy.com/content/artificial-intelligence" target="_blank">http://theopenacademy.com/content/artificial-intelligence</a><br />
-<a href="http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html" target="_blank">http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html</a><br />
-<a href="http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html" target="_blank">http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html</a><br />
-<a href="http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html" target="_blank">http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html</a>
 <a href="https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers" target="_blank">https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers</a><br />
-<a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers" target="_blank">https://github.com/ZuzooVn/machine-learning-for-software-engineers</a><br />
-<a href="https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c" target="_blank">https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c</a></p>
+<a href="https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/" target="_blank">https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/</a><br />
+<a href="https://www.cs.princeton.edu/courses/archive/fall16/cos402/" target="_blank">https://www.cs.princeton.edu/courses/archive/fall16/cos402/</a><br />
+<a href="http://theopenacademy.com/content/artificial-intelligence" target="_blank">http://theopenacademy.com/content/artificial-intelligence</a><br />
+<a href="http://ai.berkeley.edu/lecture_slides.html" target="_blank">http://ai.berkeley.edu/lecture_slides.html</a><br />
+<a href="https://www.cs.duke.edu/courses/fall08/cps270/" target="_blank">https://www.cs.duke.edu/courses/fall08/cps270/</a><br />
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm" target="_blank">https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm</a><br />
+<a href="https://brohrer.github.io/how_to_interview.html" target="_blank">https://brohrer.github.io/how_to_interview.html</a><br />
+<a href="http://datasciencemasters.org/" target="_blank">http://datasciencemasters.org/</a><br />
+<a href="https://github.com/PacktPublishing/Bayesian-Analysis-with-Python" target="_blank">https://github.com/PacktPublishing/Bayesian-Analysis-with-Python</a><br />
+<a href="http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf" target="_blank">http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf</a><br />
+<a href="https://web.stanford.edu/~hastie/ElemStatLearn/" target="_blank">https://web.stanford.edu/~hastie/ElemStatLearn/</a><br />
+<a href="http://www-bcf.usc.edu/~gareth/ISL/" target="_blank">http://www-bcf.usc.edu/~gareth/ISL/</a><br />
+<a href="http://www.inf.pucrs.br/peg/pub/tr/TI1_Luciana.pdf" target="_blank">http://www.inf.pucrs.br/peg/pub/tr/TI1_Luciana.pdf</a><br />
+<a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank">https://web.stanford.edu/~jurafsky/slp3/</a><br />
+<a href="http://bigdata-madesimple.com/20-free-books-to-get-started-with-artificial-intelligence/" target="_blank">http://bigdata-madesimple.com/20-free-books-to-get-started-with-artificial-intelligence/</a><br />
+<a href="http://cgi.di.uoa.gr/~stpatrec/" target="_blank">http://cgi.di.uoa.gr/~stpatrec/</a></p>
 
     </div>
 
