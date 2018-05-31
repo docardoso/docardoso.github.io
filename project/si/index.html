@@ -142,35 +142,70 @@
 <h2 id="avisos">Avisos</h2>
 
 <ul>
-<li>13/03/2018, 12:00: página atualizada</li>
+<li>31/05/2018, 12:00: trabalho 2 definido</li>
 </ul>
 
 <h2 id="slides-das-aulas">Slides das aulas</h2>
 
 <p>Os slides usados são alguns do curso <a href="http://ai.berkeley.edu/lecture_slides.html" target="_blank">UC Berkeley CS188 Intro to AI</a>.</p>
 
+<h2 id="trabalho-2">Trabalho 2</h2>
+
+<p>Implementar classificadores de dígitos baseados em Regressão Linear e o Método dos Mínimos Quadrados.</p>
+
+<p>Este Trabalho 2 é similar ao primeiro. A diferença entre ambos pode ser resumida à diferença no método para classificação a ser utilizado.</p>
+
+<p>Duas alternativas devem ser consideradas:</p>
+
+<ol>
+<li><p>A variável de saída é um escalar.
+Neste caso, para uma observação $x \in \mathbb{R}^n$ (i.e., um vetor de $n$ valores representando um dígito), há um escalar correspondente, $y \in \{0, 1, \dots, 9\}$, que representa a classe desta observação.
+As classes das observações no conjunto de treinamento são conhecidas.
+Após o treinamento e a definição do vetor $\theta \in \mathbb{R}^{n+1}$.
+Será possível inferir a classe de uma observação $x&rsquo;$ pelo produto escalar de $\theta$ e um vetor semelhante a $x&rsquo;$ acrescido de um componente cujo valor é 1.
+A classe inferida é aquela a qual o escalar obtido mais se aproxima (e.g., $4.79 \to 5, -1.12 \to 0$).</p></li>
+
+<li><p>A variável de saída é um vetor binário.
+Já neste caso, para uma observação $x \in \mathbb{R}^n$ cuja classe é $y\in \{0, 1, \dots, 9\}$, é estabelecida a correspondência entre $x$ e um vetor binário $y&rsquo;$, cujo número de dimensões é igual ao número de classes, 10.
+Todos os componentes de $y&rsquo;$ valem 0, a não ser o $y$-ésimo componente, que vale 1.
+Por exemplo, se $y=3$, então o vetor binário correspondente é $y&rsquo; = \{0,0,0,1,0,0,0,0,0,0\}$.
+Após o treinamento, é definido uma matriz $\theta \in \mathbb{R}^{(n+1)\times10}$.
+A classe de uma observação $x&rsquo;$ é inferida pelo seu produto por $\theta$, e pela identificação da componente de maior valor do vetor resultante deste produto.</p></li>
+</ol>
+
+<p>Diferente do 1o trabalho, para este não será necessário binarizar as entradas, podendo estar serem tratadas como números reais como originalmente fornecidas. Considere como hiperparâmetros do modelo o tamanho do passo e o número de iterações no processo de otimização que leva a definição de $\theta$.</p>
+
+<p>A conclusão do desenvolvimento do trabalho deve ser anunciada até 22/06/2018.
+Quando isto acontecer, será então agendada uma breve entrevista (não é uma apresentação; slides não serão utilizados) sobre o trabalho desenvolvido.
+O desempenho no Kaggle e na entrevista serão os critérios para a avaliação.</p>
+
 <h2 id="trabalho-1">Trabalho 1</h2>
 
 <p>Implementar de um classificador de dígitos baseado em Naive Bayes.</p>
 
 <p>Usaremos como plataforma para este trabalho o Kaggle.
-Vide <a href="https://www.kaggle.com/c/digit-recognizer" target="_blank">este link</a>.</p>
+Vide este <a href="https://www.kaggle.com/c/digit-recognizer" target="_blank">link</a>.</p>
 
 <p>O objetivo será obter a maior acurácia possível numa submissão feita ao site, sendo este valor considerado para avaliação de cada aluno.
 O número de submissões feitas não terá qualquer influência na avaliação.</p>
 
 <p>Considere o tipo de suavização assim como sua configuração como hiperparâmetros do modelo.</p>
 
-<p>Conforme pode ser notado, as entradas não são figuras em preto-e-branco, mas em escala de cinza. Estas deverão ser binarizadas, utilizando um critério que pode ser livremente escolhido (e.g., limiar fixo, limiar média, limiar mediana). Sendo assim, o processo de binarização é outro hiperparâmetro. Há diversas referências sobre binarização na Internet [<a href="http://felixniklas.com/imageprocessing/binarization" target="_blank">1</a>, <a href="https://en.wikipedia.org/wiki/Thresholding_(image_processing)" target="_blank">2</a>, <a href="https://imagej.net/Auto_Local_Threshold#Available_methods" target="_blank">3</a>].</p>
+<p>Conforme pode ser notado, as entradas não são figuras em preto-e-branco, mas em escala de cinza.
+Estas deverão ser binarizadas, utilizando um critério que pode ser livremente escolhido (e.g., limiar fixo, limiar média, limiar mediana).
+Sendo assim, o processo de binarização é outro hiperparâmetro.
+Há diversas referências sobre binarização na Internet [<a href="http://felixniklas.com/imageprocessing/binarization" target="_blank">1</a>, <a href="https://en.wikipedia.org/wiki/Thresholding_(image_processing)" target="_blank">2</a>, <a href="https://imagej.net/Auto_Local_Threshold#Available_methods" target="_blank">3</a>].</p>
 
-<p>A conclusão do desenvolvimento do trabalho deve ser anunciada até 01/06/2018. Quando isto acontecer, será então agendada uma breve entrevista (não é uma apresentação; slides não serão utilizados) sobre o trabalho desenvolvido. O desempenho no Kaggle e na entrevista serão os critérios para a avaliação.</p>
+<p>A conclusão do desenvolvimento do trabalho deve ser anunciada até 01/06/2018.
+Quando isto acontecer, será então agendada uma breve entrevista (não é uma apresentação; slides não serão utilizados) sobre o trabalho desenvolvido.
+O desempenho no Kaggle e na entrevista serão os critérios para a avaliação.</p>
 
 <h2 id="links-interessantes">Links interessantes</h2>
 
-<p><a href="http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html" target="_blank">http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html</a><br />
+<p><a href="http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html" target="_blank">http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html</a>
 <a href="http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html" target="_blank">http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html</a><br />
 <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers" target="_blank">https://github.com/ZuzooVn/machine-learning-for-software-engineers</a><br />
-<a href="https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c" target="_blank">https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c</a><br />
+<a href="https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c" target="_blank">https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c</a>
 <a href="http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html" target="_blank">http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html</a><br />
 <a href="http://openclassroom.stanford.edu/MainFolder/HomePage.php" target="_blank">http://openclassroom.stanford.edu/MainFolder/HomePage.php</a><br />
 <a href="http://ghyslain.me/bookshelf" target="_blank">http://ghyslain.me/bookshelf</a><br />
