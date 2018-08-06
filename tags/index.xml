@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docardoso.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
@@ -15,14 +17,13 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/tags/academic/</guid>
-      <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Cefet Rj</title>
       <link>https://docardoso.github.io/tags/cefet-rj/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/tags/cefet-rj/</guid>
       <description></description>
@@ -31,27 +32,27 @@
     <item>
       <title>Cursos</title>
       <link>https://docardoso.github.io/tags/cursos/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/tags/cursos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Eng Sw</title>
-      <link>https://docardoso.github.io/tags/eng-sw/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Graduacao</title>
+      <link>https://docardoso.github.io/tags/graduacao/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docardoso.github.io/tags/eng-sw/</guid>
+      <guid>https://docardoso.github.io/tags/graduacao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Graduacao</title>
-      <link>https://docardoso.github.io/tags/graduacao/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
+      <title>Introprog</title>
+      <link>https://docardoso.github.io/tags/introprog/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docardoso.github.io/tags/graduacao/</guid>
+      <guid>https://docardoso.github.io/tags/introprog/</guid>
       <description></description>
     </item>
     
@@ -74,11 +75,11 @@
     </item>
     
     <item>
-      <title>Prog Python</title>
-      <link>https://docardoso.github.io/tags/prog-python/</link>
+      <title>Si</title>
+      <link>https://docardoso.github.io/tags/si/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://docardoso.github.io/tags/prog-python/</guid>
+      <guid>https://docardoso.github.io/tags/si/</guid>
       <description></description>
     </item>
     

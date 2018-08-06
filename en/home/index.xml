@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Douglas O. Cardoso</title>
-    <link>https://docardoso.github.io/en/home/index.xml</link>
+    <link>https://docardoso.github.io/en/home/</link>
     <description>Recent content in Homes on Douglas O. Cardoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
     <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docardoso.github.io/en/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://docardoso.github.io/en/home/about/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/en/home/about/</guid>
+      <description>I am an assistant professor at the Department of Computer Engineering of CEFET-RJ Petrópolis. My research interests include clustering, open set recognition, data streams mining and weightless neural networks. I also coordinate a programming contests training project, preparing students to competitions as the ACM International Collegiate Programming Contest. </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://docardoso.github.io/en/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/en/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

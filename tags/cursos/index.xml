@@ -2,11 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cursos on Douglas O. Cardoso</title>
-    <link>https://docardoso.github.io/tags/cursos/index.xml</link>
+    <link>https://docardoso.github.io/tags/cursos/</link>
     <description>Recent content in Cursos on Douglas O. Cardoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
-    <atom:link href="/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://docardoso.github.io/tags/cursos/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Introdução a Programação</title>
@@ -14,52 +17,7 @@
       <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/intro-prog/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;04/09/2017, 14:10: O prazo das 1as listas de exercícios é 29/09/2017&lt;/li&gt;
-&lt;li&gt;04/09/2017, 14:10: A P1 ocorrerá em 29/09/2017&lt;/li&gt;
-&lt;li&gt;04/09/2017, 14:10: página criada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;aulas&#34;&gt;Aulas&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Entrada e saída básicos&lt;/li&gt;
-&lt;li&gt;Variáveis&lt;/li&gt;
-&lt;li&gt;if, else e else if&lt;/li&gt;
-&lt;li&gt;Loops (for, while e do while)&lt;/li&gt;
-&lt;li&gt;Vetores e matrizes&lt;/li&gt;
-&lt;li&gt;Funções&lt;/li&gt;
-&lt;li&gt;Bibliotecas-padrão (stdio, math, string)&lt;/li&gt;
-&lt;li&gt;Struct e endereços&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Os códigos-fonte gerados durante as aulas, exemplificando o conteúdo abordado, encontram-se disponíveis através deste &lt;a href=&#34;https://www.dropbox.com/sh/zujq8abccf3qevl/AAD8CT8-qBnxXd7QFPic782ea&#34;&gt;link&lt;/a&gt;. Tal link é de responsabilidade dos próprios alunos.&lt;/p&gt;
-
-&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de Exercícios&lt;/h2&gt;
-
-&lt;p&gt;O site &lt;a href=&#34;https://www.urionlinejudge.com.br/&#34;&gt;https://www.urionlinejudge.com.br/&lt;/a&gt; foi utilizado para divulgação e avaliação das primeiras listas de exercícios. Sendo assim, para ter acesso às mesmas, fazer cadastrar-se no site e entrar em contato solicitando permissão para acesso a elas.&lt;/p&gt;
-
-&lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
-
-&lt;p&gt;Monitor: Yngwi Guimaraes (&lt;a href=&#34;mailto:yngwigvs@gmail.com&#34;&gt;yngwigvs@gmail.com&lt;/a&gt;)&lt;br /&gt;
-Atendimento:&lt;br /&gt;
-- 5as-feiras; das 9:30 às 10:50, no laboratório do hall;&lt;br /&gt;
-- 5as-feiras; das 15:30 às 17:30 na biblioteca (2o andar).&lt;/p&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.learn-c.org/&#34;&gt;http://www.learn-c.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://learnxinyminutes.com/docs/c/&#34;&gt;https://learnxinyminutes.com/docs/c/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.cprogramming.com/tutorial/c-tutorial.html&#34;&gt;http://www.cprogramming.com/tutorial/c-tutorial.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.programiz.com/c-programming&#34;&gt;https://www.programiz.com/c-programming&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://fresh2refresh.com/c-programming/&#34;&gt;http://fresh2refresh.com/c-programming/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.w3schools.in/c-tutorial/&#34;&gt;http://www.w3schools.in/c-tutorial/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm&#34;&gt;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/index.htm&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Avisos  18/06/2018, 13:00: definição da avaliação final divulgada  Avaliação final A avaliação final consiste na implementação de um programa que reproduza parcialmente o funcionamento de um terminal Linux. O programa funcionará de forma interativa, respondendo a comandos indicados através do teclado. Por exemplo, caso seja indicado o comando pwd, deverá ser exibido o diretório/pasta corrente. Como outro exemplo, para o comando ls, deverá ser listado o conteúdo da pasta atual.</description>
     </item>
     
     <item>
@@ -68,119 +26,30 @@ Atendimento:&lt;br /&gt;
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/lfa/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;06/09/2017, 05:20: descrição do trabalho 1 adicionada&lt;/li&gt;
-&lt;li&gt;23/08/2017, 16:40: página atualizada para 2017-2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;01-afd.pdf&#34;&gt;Autômatos Finitos Determinísticos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;02-afn.pdf&#34;&gt;Autômatos Finitos Não-Determinísticos&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;03-afl_fechamento.pdf&#34;&gt;AFN$\lambda$s &amp;amp; Propriedades de Fechamento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;04-bombeamento.pdf&#34;&gt;Lema do Bombeamento&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;05-er.pdf&#34;&gt;Expressões Regulares&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;06-gr.pdf&#34;&gt;Gramáticas Regulares&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--
-1. [Autômatos com Pilha](07-ap.pdf)
---&gt;
-
-&lt;h2 id=&#34;trabalhos&#34;&gt;Trabalhos&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;lfa_trab1.pdf&#34;&gt;Trabalho 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de exercícios&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;lfa_lista1.pdf&#34;&gt;Lista 1&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--
-1. [Lista 2](lfa_lista2.pdf)
-1. [Lista 3](lfa_lista3.pdf)
-1. [Lista 4](lfa_lista4.pdf)
---&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://homes.dcc.ufba.br/~leandrojsa/livroFTC.pdf&#34;&gt;http://homes.dcc.ufba.br/~leandrojsa/livroFTC.pdf&lt;/a&gt;
-&lt;a href=&#34;http://homepages.dcc.ufmg.br/~nvieira/cursos/ftc/&#34;&gt;http://homepages.dcc.ufmg.br/~nvieira/cursos/ftc/&lt;/a&gt;
-&lt;a href=&#34;http://wiki.icmc.usp.br/index.php/SCC-5832(JoaoLuis)&#34;&gt;http://wiki.icmc.usp.br/index.php/SCC-5832(JoaoLuis)&lt;/a&gt;
-&lt;a href=&#34;http://www.marcusramos.com.br/univasf/&#34;&gt;http://www.marcusramos.com.br/univasf/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Avisos  22/04/2018, 13:50: Slides 05 e 06 adicionados 22/04/2018, 13:50: P2 marcada para dia 02/05/2018  Slides das aulas  Autômatos Finitos Determinísticos Autômatos Finitos Não-Determinísticos Propriedades de Fechamento e Lema do Bombeamento Expressões e Gramáticas Regulares Autômatos com Pilha Gramáticas Livres de Contexto  Trabalhos  Trabalho 1  Links úteis http://homes.dcc.ufba.br/~leandrojsa/livroFTC.pdf
+http://homepages.dcc.ufmg.br/~nvieira/cursos/ftc/
+http://wiki.icmc.usp.br/index.php/SCC-5832(JoaoLuis)
+http://www.marcusramos.com.br/univasf/</description>
     </item>
     
     <item>
-      <title>Lógica</title>
+      <title>Lógica para Computação</title>
       <link>https://docardoso.github.io/project/logica/</link>
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/logica/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;04/09/2017, 15:00: A P1 ocorrerá em 14/09/2017, de 7:00 às 8:30&lt;/li&gt;
-&lt;li&gt;04/09/2017, 11:50: lista 2 divulgada&lt;/li&gt;
-&lt;li&gt;30/08/2017, 00:10: lista 1 divulgada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!--
-
-## Slides das Aulas
-
-1. [Lógica Proposicional e Dedução Natural (parte 1)](01-lp_dn1.pdf)
-1. [Dedução Natural (parte 2)](02-dn2.pdf)
-1. [Regras Derivadas e Equivalências Populares](03-equivalencias.pdf)
-1. [Resolução Proposicional](04-resolucao.pdf)
-
---&gt;
-
-&lt;h2 id=&#34;listas-de-exercícios&#34;&gt;Listas de Exercícios&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;lista1.pdf&#34;&gt;Lista 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;lista2.pdf&#34;&gt;Lista 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--
-
-1. [Lista 2](lista2.pdf)
-1. [Lista 3](lista3.pdf)
-1. [Lista 4](lista4.pdf)
-1. [Lista 5](lista5.pdf)
-1. [Lista 6](lista6.pdf)
-
---&gt;
-
-&lt;h2 id=&#34;monitoria&#34;&gt;Monitoria&lt;/h2&gt;
-
-&lt;p&gt;Monitor: Victor Pedrosa (&lt;a href=&#34;mailto:victor.pedrosa.99@gmail.com&#34;&gt;victor.pedrosa.99@gmail.com&lt;/a&gt;)&lt;br /&gt;
-Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)&lt;/p&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.cos.ufrj.br/~mario/logica/logica.html&#34;&gt;http://www.cos.ufrj.br/~mario/logica/logica.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf&#34;&gt;http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/&#34;&gt;http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://logic.stanford.edu/intrologic/notes/notes.html&#34;&gt;http://logic.stanford.edu/intrologic/notes/notes.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html&#34;&gt;https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.logicinaction.org/&#34;&gt;http://www.logicinaction.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://logic.ua.edu/cgi-bin/quizmaster&#34;&gt;http://logic.ua.edu/cgi-bin/quizmaster&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.poweroflogic.com/cgi/menu.cgi&#34;&gt;http://www.poweroflogic.com/cgi/menu.cgi&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&#34;&gt;http://www.cs.rice.edu/~vardi/comp409/409.lectures.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://teachinglogic.liglab.fr/DN/index.php&#34;&gt;http://teachinglogic.liglab.fr/DN/index.php&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Avisos  06/08/2018, 05:00: atualização para 2018-2 06/08/2018, 05:00: slides da 1a aula (02/08) adicionados  Slides das Aulas  Operadores e Expressões Lógicos  Monitoria Monitor: Victor Pedrosa (victor.pedrosa.99@gmail.com)
+Atendimento presencial: 6as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar) Atendimento online: via Facebook ou Whatsapp, a qualquer hora
+Links úteis http://www.cos.ufrj.br/~mario/logica/logica.html
+http://web.ist.utl.pt/acardoso/docs/2014-lpp-guiaPraticas.pdf
+http://homepages.dcc.ufmg.br/~nvieira/cursos/lac/
+http://logic.stanford.edu/intrologic/notes/notes.html
+https://logik.phl.univie.ac.at/~chris/gateway/formular-uk-zentral.html
+http://www.logicinaction.org/
+http://logic.ua.edu/cgi-bin/quizmaster
+http://www.poweroflogic.com/cgi/menu.cgi
+http://www.cs.rice.edu/~vardi/comp409/409.lectures.html
+http://teachinglogic.liglab.fr/DN/index.php</description>
     </item>
     
     <item>
@@ -189,49 +58,11 @@ Atendimento: 4as-feiras, das 14:00 às 18:00, na biblioteca (2$^o$ andar)&lt;/p&
       <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/si/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;05/09/2017, 3:20: página criada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;slides-das-aulas&#34;&gt;Slides das aulas&lt;/h2&gt;
-
-&lt;p&gt;Os slides usados são alguns do curso &lt;a href=&#34;http://ai.berkeley.edu/lecture_slides.html&#34;&gt;UC Berkeley CS188 Intro to AI&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;trabalho-1&#34;&gt;Trabalho 1&lt;/h2&gt;
-
-&lt;p&gt;Solucionar o &lt;a href=&#34;https://pt.wikipedia.org/wiki/O_jogo_do_15&#34;&gt;Jogo dos 15&lt;/a&gt;.&lt;br /&gt;
-Isto é, desenvolver um programa que receba como entrada:&lt;br /&gt;
-- na 1a linha, dois valores inteiros, $l$ e $c$, representando o número de linhas e colunas do tabuleiro, respectivamente;&lt;br /&gt;
-- da 2a linha em diante, os números de $0$ a $(l * c) - 1$, organizados em l linhas com c números cada, representando a configuração inicial do jogo ($0$ representa o espaço).&lt;br /&gt;
-- Na última linha, um número representando um dos tipos de busca apresentados: em profundidade, em largura, em profundidade iterativa, custo uniforme, gulosa e A*.&lt;br /&gt;
-Como saída do programa, devem ser apresentados:&lt;br /&gt;
-- o número de nós expandidos durante a busca;&lt;br /&gt;
-- a quantidade e descrição dos movimentos da configuração original até a solução, se esta for encontrada.&lt;/p&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://ai.berkeley.edu/lecture_slides.html&#34;&gt;http://ai.berkeley.edu/lecture_slides.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.cs.duke.edu/courses/fall08/cps270/&#34;&gt;https://www.cs.duke.edu/courses/fall08/cps270/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm&#34;&gt;https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://www.cs.princeton.edu/courses/archive/fall16/cos402/&#34;&gt;https://www.cs.princeton.edu/courses/archive/fall16/cos402/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/&#34;&gt;https://br.udacity.com/course/intro-to-artificial-intelligence--cs271/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.deeplearningbook.org/&#34;&gt;http://www.deeplearningbook.org/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://cs109.org&#34;&gt;http://cs109.org&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning&#34;&gt;http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=MachineLearning&lt;/a&gt;
-&lt;a href=&#34;http://dataconomy.com/2017/02/mathematics-machine-learning/&#34;&gt;http://dataconomy.com/2017/02/mathematics-machine-learning/&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://ghyslain.me/bookshelf&#34;&gt;http://ghyslain.me/bookshelf&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://theopenacademy.com/content/artificial-intelligence&#34;&gt;http://theopenacademy.com/content/artificial-intelligence&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html&#34;&gt;http://www.kdnuggets.com/2015/10/learning-machine-learning-quora.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html&#34;&gt;http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html&#34;&gt;http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html&lt;/a&gt;
-&lt;a href=&#34;https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&#34;&gt;https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://github.com/ZuzooVn/machine-learning-for-software-engineers&#34;&gt;https://github.com/ZuzooVn/machine-learning-for-software-engineers&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&#34;https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c&#34;&gt;https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Avisos  31/05/2018, 12:00: trabalho 2 definido  Slides das aulas Os slides usados são alguns do curso UC Berkeley CS188 Intro to AI.
+Trabalho 2 Implementar classificadores de dígitos baseados em Regressão Linear e o Método dos Mínimos Quadrados.
+Este Trabalho 2 é similar ao primeiro. A diferença entre ambos pode ser resumida à diferença no método para classificação a ser utilizado.
+Duas alternativas devem ser consideradas:
+ A variável de saída é um escalar.</description>
     </item>
     
   </channel>

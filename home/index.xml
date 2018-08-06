@@ -2,12 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Douglas O. Cardoso</title>
-    <link>https://docardoso.github.io/home/index.xml</link>
+    <link>https://docardoso.github.io/home/</link>
     <description>Recent content in Homes on Douglas O. Cardoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
     <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docardoso.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://docardoso.github.io/home/about/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/home/about/</guid>
+      <description>Eu sou professor do Departamento de Engenharia da Computação do CEFET-RJ Petrópolis. Os temas de pesquisa que mais me interessam são agrupamento de dados, reconhecimento em cenários abertos, mineração de fluxos de dados e redes neurais sem-pesos. Eu também coordeno um projeto de treinamento para competições de programação, preparando alunos para competições como o ACM International Collegiate Programming Contest, e a Maratona de Programação da SBC. </description>
+    </item>
+    
+    <item>
+      <title>Cursos</title>
+      <link>https://docardoso.github.io/home/cursos/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/home/cursos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://docardoso.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://docardoso.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
