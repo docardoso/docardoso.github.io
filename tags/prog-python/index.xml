@@ -2,11 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prog Python on Douglas O. Cardoso</title>
-    <link>https://docardoso.github.io/tags/prog-python/index.xml</link>
+    <link>https://docardoso.github.io/tags/prog-python/</link>
     <description>Recent content in Prog Python on Douglas O. Cardoso</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Douglas O. Cardoso</copyright>
-    <atom:link href="/tags/prog-python/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://docardoso.github.io/tags/prog-python/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Programação em Python</title>
@@ -14,75 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/prog-python/</guid>
-      <description>
-
-&lt;h2 id=&#34;avisos&#34;&gt;Avisos&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;30/06/2017, 01:50: correção dos arquivos calculadora.in e calculadora.out&lt;/li&gt;
-&lt;li&gt;Diretrizes dos projeto &amp;lsquo;Plotter&amp;rsquo; e &amp;lsquo;Calculadora&amp;rsquo; divulgadas.&lt;/li&gt;
-&lt;li&gt;Todos os projetos são individuais.&lt;/li&gt;
-&lt;li&gt;O envio dos projetos deve ocorrer até 07/07/2017, 0:00.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;projeto-plotter&#34;&gt;Projeto &amp;lsquo;Plotter&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Uma aplicação para desktop que mostrará gráficos de funções daadas suas especificações.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O arquivo-fonte principal da aplicação deve ter o nome &lt;strong&gt;plotter.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;A aplicação terá uma única tela;&lt;/li&gt;
-&lt;li&gt;Na tela haverá uma caixa de texto para cada uma das seguintes informações: especificação das funções a serem apresentadas, rótulo do eixo X, rótulo do eixo Y, título do gráfico;&lt;/li&gt;
-&lt;li&gt;Haverá também um botão que disparará a produção do gráfico;&lt;/li&gt;
-&lt;li&gt;O intervalo no qual as funções serão consideradas (i.e., o intervalo de x) será indicado através de outras duas caixas de texto, uma para o limite inferior e outra para o limite superior deste intervalo;&lt;/li&gt;
-&lt;li&gt;As funções serão indicadas uma por linha na caixa de texto destinada a isso;&lt;/li&gt;
-&lt;li&gt;O formato 1 para especificar funções são números separados por espaços, que representam os coeficientes da função: e.g., &amp;lsquo;2 -3 5 -7&amp;rsquo; $\to 2x^3 - 3x^2 + 5x - 7$;&lt;/li&gt;
-&lt;li&gt;O formato 2 é aquele no qual as raízes da função são indicadas: e.g., &amp;lsquo;r:7 -2 9&amp;rsquo; $\to (x - 7)(x + 2)(x - 9)$;&lt;/li&gt;
-&lt;li&gt;No gráfico estarão presentes linhas-guias, como uma grade, facilitando assim a leitura do gráfico;&lt;/li&gt;
-&lt;li&gt;Haverá uma legenda indicando a função a que se refere cada uma das curvas no gráfico.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Além das funcionalidades acima listadas, a organização (mas não a estética em si, mas a praticidade de uso) dos elementos da GUI também serão avaliados. Utilize os layouts e as opções dos elementos gráficos com sabedoria.&lt;/p&gt;
-
-&lt;p&gt;Para fins de referência, os seguintes módulos e funções de python devem ser úteis na realização desta tarefa: kivy, numpy, pylab, numpy.linspace, numpy.poly1d, pylab.xlim, pylab.xlabel, pylab.ylabel, pylab.title, pylab.plot, pylab.legend, pylab.grid.&lt;/p&gt;
-
-&lt;h2 id=&#34;projeto-calculadora&#34;&gt;Projeto &amp;lsquo;Calculadora&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Um script interativo que calcula o valor de expressões matemáticas simples. Diretrizes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O script deve ter o nome &lt;strong&gt;calculadora.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 calculadora.py&lt;/strong&gt; e receber os conandos no arquivo &lt;a href=&#34;calculadora/calculadora.in&#34;&gt;calculadora.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;calculadora/calculadora.out&#34;&gt;calculadora.out&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;O script deverá ser capaz de computar o valor de expressões aritiméticas baseados nos operadores +, -, *, / e **;&lt;/li&gt;
-&lt;li&gt;Não deveá ser considerada qualquer regra de precedência entre os operadores;&lt;/li&gt;
-&lt;li&gt;Deve ser permitida a atribuição de valore e uso posterior de variáveis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os arquivos indicados acima (calculadora.in, calculadora.out) fornecem as orientações básicas sobre o funcionamento do script calculadora.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
-
-&lt;h2 id=&#34;projeto-agenda&#34;&gt;Projeto &amp;lsquo;Agenda&amp;rsquo;&lt;/h2&gt;
-
-&lt;p&gt;Uma implementação de uma agenda simples em Python. Deve atender as seguintes diretrizes básicas:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O script deve ter o nome &lt;strong&gt;agenda.py&lt;/strong&gt;;&lt;/li&gt;
-&lt;li&gt;Ao ser executado como &lt;strong&gt;python3 agenda.py &lt;a href=&#34;agenda/agenda.db&#34;&gt;agenda.db&lt;/a&gt;&lt;/strong&gt; e receber os comandos no arquivo &lt;a href=&#34;agenda/agenda.in&#34;&gt;agenda.in&lt;/a&gt;, a saída do script deve ser similar àquela do arquivo &lt;a href=&#34;agenda/agenda.out&#34;&gt;agenda.out&lt;/a&gt; e o conteúdo do arquivo agenda.db será modificado de forma similar ao arquivo &lt;a href=&#34;agenda/agenda_pos.db&#34;&gt;agenda_pos.db&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;Com o arquivo agenda.db gerado no item anterior (ou seja, similar ao arquivo agenda_pos.db), ao executar o script &lt;a href=&#34;agenda/teste_agenda.py&#34;&gt;teste_agenda.py&lt;/a&gt;, a saída produzida deve ser semelhante ao arquivo &lt;a href=&#34;agenda/teste_agenda.out&#34;&gt;teste_agenda.out&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;Ao recuperar contatos na agenda, sejam todos ou apenas um subconjunto destes, eles devem ser &lt;strong&gt;idealmente&lt;/strong&gt; (ou seja, o quanto mais próximo disso, melhor) exibidos em ordem alfabética e sem diferenciar caracteres maiúsculos e minúsculos;&lt;/li&gt;
-&lt;li&gt;O arquivos teste_agenda.py contém comentários com orientações sobre o comportamento esperado dos elementos implementados.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os arquivos indicados acima (agenda.db, agenda_pos.db, agenda.in, agenda.out, teste_agenda.py, teste-agenda.out) fornecem as orientações básicas sobre o funcionamento do script agenda.py. Todavia, outros casos de teste podem ser usados na avaliação dos projetos desenvolvidos.&lt;/p&gt;
-
-&lt;p&gt;Em caso de dúvidas, não deixe de esclarecê-las! Comunique-se!&lt;/p&gt;
-
-&lt;h2 id=&#34;links-úteis&#34;&gt;Links úteis&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://docs.python.org/3.6/tutorial/index.html&#34;&gt;https://docs.python.org/3.6/tutorial/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.sololearn.com/Course/Python/&#34;&gt;https://www.sololearn.com/Course/Python/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Avisos  01/10/2017, 04:30: diretrizes das tarefas relativas a parte 2 divulgadas  Trabalhos  Tarefas da parte 2  Links úteis  https://docs.python.org/3.6/tutorial/index.html https://www.sololearn.com/Course/Python/  </description>
     </item>
     
   </channel>
