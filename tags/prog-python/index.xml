@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://docardoso.github.io/project/prog-python/</guid>
-      <description> Avisos  01/10/2017, 04:30: diretrizes das tarefas relativas a parte 2 divulgadas  Trabalhos  Tarefas da parte 2  Links úteis  https://docs.python.org/3.6/tutorial/index.html https://www.sololearn.com/Course/Python/  </description>
+      <description>Avisos  30/11/2018, 22:15: especificação da 3a avaliação adicionada  3$^a$ avaliação Na última parte da matéria estudamos na prática alguns conceitos e ferramentas básicos de ciência de dados (aprendizado de máquina, pré-processamento, engenharia de atributos, visualização de dados etc). Vamos colocar estes mesmos elementos em prática em mais uma competição do Kaggle. A avaliação levará em conta não apenas o desempenho na competição, mas principalmente o tratamento (substituição de valores indevidos, combinação dos atributos existentes, geração de novos atributos etc) e análise exploratória dos dados (gráficos, estatísticas tal como conclusões interessantes).</description>
     </item>
     
   </channel>
